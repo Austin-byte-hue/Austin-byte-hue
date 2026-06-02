@@ -1,4 +1,5 @@
-## Hi there 👋I am Austin a BBIT student
+## Hi there👋
+I am Austin a BBIT student currently working on my first project interested in learning more about this new interface and collaborating with others!!!
 
 <!--
 **Austin-byte-hue/Austin-byte-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
